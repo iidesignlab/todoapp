@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ignore bundler config
 /.bundle
 
@@ -16,21 +15,3 @@ doc/
 .project
 .DS_Store
 .idea
-=======
-*.rbc
-*.sassc
-.sass-cache
-capybara-*.html
-.rspec
-/.bundle
-/vendor/bundle
-/log/*
-/tmp/*
-/db/*.sqlite3
-/public/system/*
-/coverage/
-/spec/tmp/*
-**.orig
-rerun.txt
-pickle-email-*.html
->>>>>>> b4ff9cb42b600e6c4c143e1776fe64014bbcf515
